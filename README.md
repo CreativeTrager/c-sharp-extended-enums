@@ -1,2 +1,2 @@
 # extended-enums
-.NET enum wrapper containing many useful features
+Wrapper for C# enums containing useful features
